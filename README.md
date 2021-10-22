@@ -1,7 +1,7 @@
 # lcd-monitor-samsung-c27r500fhr
  Curved 1080p Samsung LCD Monitor
  
-Initially this LCD Monitor requires manual correction of the colors, sharpness, contrast and brightness, to become appealing.
+Initially this LCD Monitor requires manual correction of the sharpness, contrast and brightness, to become appealing.
 
 The Color fix.
 
